@@ -7,7 +7,7 @@ Firewalls are network security devices that are designed to  control incoming an
 
 
 
-It is a software program or a piece of hardware that restricts the entering of virus,worms to out local networks.Software program is a program that is installed in our pc whereas hardware firewall is device placed between our local networks and internet.A firewall decides which network traffic is allowed to pass through and which traffic is dangerous to our local networks.It filters the good data from the bad data.
+It is a software program or a piece of hardware that restricts the entering of virus,worms to out local networks.Software program is a program that is installed in our pc whereas hardware firewall is device placed between our local networks and internet.A firewall decides which network traffic is allowed to pass through and which traffic is dangerous to our local networks.It filters the good data from the unwanted data.
 
 # Types of Firewalls:
 
